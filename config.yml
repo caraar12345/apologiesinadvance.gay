@@ -1,0 +1,10 @@
+baseURL: 'https://apologiesinadvance.gay'
+languageCode: 'en-gb'
+title: 'Apologies In Advance'
+theme: 'papermod'
+params:
+    profileMode:
+        enabled: true
+        buttons:
+            - name: Wiki
+              url: "https://wiki.emfcamp.org/wiki/Village:AIA"
