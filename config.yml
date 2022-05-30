@@ -8,3 +8,5 @@ params:
         buttons:
             - name: Wiki
               url: "https://wiki.emfcamp.org/wiki/Village:AIA"
+            - name: Contact Us
+              url: "https://apologiesinadvance.gay/contact-us/index.html"
