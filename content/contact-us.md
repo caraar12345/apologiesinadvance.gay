@@ -11,10 +11,11 @@ hidemeta: true
 
 | Name  | Extension  | Other | 
 |---|---|---|---|
-| Aaron  | 5949 |   |
+| Aaron  | 5949 |  [@acar321](https://twitter.com/acar321) / [@caraar12345](https://t.me/caraar12345) |
 | Ben  | 8188 | @cmnatic  |
 | Felix  | 3509 |   |
 | Nate  | 4687 |   |
 | Noah  | 4269  |   |
+| Billy | 4297 |    |
 
 Why not visit our [wiki](https://wiki.emfcamp.org/wiki/Village:AIA)?
